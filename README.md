@@ -1,2 +1,2 @@
-Este projeto está disponível através do seguinte link:
-https://todo-react-app-frontend.herokuapp.com/
+# Study Project
+[Clique aqui para acessar o App](https://todo-react-app-frontend.herokuapp.com/)
